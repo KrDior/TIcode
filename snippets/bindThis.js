@@ -15,7 +15,7 @@ const bill = {
       console.log(`Salut mon nom est ${this.name}`);
     };
 
-    greetInRussian();
+    greetInRussian.bind(this)();
     greetInFrench();
   }
 }
