@@ -17,6 +17,11 @@ const employees = [
   }
 ];
 
+// [
+//   { id: '7', roles: [ 'QA', 'DevOps' ] },
+//   { id: '35', roles: [ 'Developer', 'Tech Lead' ] }
+// ]
+
 function formatEmployees(employees) {
   const employeesMap = {};
 

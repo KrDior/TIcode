@@ -1,6 +1,6 @@
 // 1 Найти в массиве вида ['red', 'green', 'green', 'yellow', 'red'] самую часто встречающуюся строку.
 
-const arr = ['red', 'green', 'green', 'yellow', 'red'];
+const arr1 = ['red', 'green', 'green', 'yellow', 'red', 'green'];
 
 // 2 Напишите код, который сделает из массива объект
 
